@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1{
+
+    background-image: url('images/photo1.jpg');
+    width: 100%;
+    height: 600px;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+/* .container1 h1{
+    font-family: 'Aboreto', cursive;
+    position: relative;
+    left: 20px;
+    top: 200px;
+    padding: 10px;
+    text-align: center;
+    font-size: 50px;
+
+} */
+.container2{
+
+    background-image: url('images/photo2.jpg');
+    width: 100%;
+    height: 600px;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+ h1{
+    font-family: 'Aboreto', cursive;
+    position: relative;
+    left: 20px;
+    top: 200px;
+    padding: 10px;
+    text-align: center;
+    font-size: 7vw;
+   
+    text-shadow: 0 5px 8px #fff;
+    color: #bb0b0f;
+   
+}
+
+h2{
+    font-family: 'Parisienne', cursive;
+    text-shadow: 0 2px 8px #fff;
+}
+
+.para{
+    height: 200px;
+    text-align: center;
+    /* margin-top: 10px; */
+    padding-top: 10px;
+    background-color: black;
+    color: white;
+    
+}
+
+.para p{
+    padding-bottom: 50px;
+}
+.para-1{
+    background-color: black;
+}
+.para h2{
+   margin-bottom: 30px;
+}
+
+.para-2{
+    background-color:#9f3f41;
+}
+.container3{
+
+    background-image: url('images/photo3.jpg');
+    width: 100%;
+    height: 600px;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+.container4{
+
+    background-image: url('images/photo4.jpg');
+    width: 100%;
+    height: 600px;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+section{
+    background-color:#9f3f41;
+    display: flex;
+    gap: 100px;
+  
+    height: 400px;
+}
+
+.left-part{
+    text-align: center;
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+.left-part h2{
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+}
+
+.left-part p{
+    font-size: 17px;
+    font-weight: bold;
+    font-family: 'Homemade Apple', cursive;
+    padding-left: 10px;
+}
+.right-part{
+    text-align: center;
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+.right-part h2{
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+}
+
+.content-2{
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+.right-part p{
+    font-size: 17px;
+    font-weight: bold;
+    font-family: 'Homemade Apple', cursive;
+}
+.content-4{
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
